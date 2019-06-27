@@ -1,0 +1,25 @@
+html {
+    margin: 2px;
+    width: 600%;
+    padding: 2px;
+}
+
+header {
+    color: aquamarine;
+    display: flex;
+    border: 3px solid olivedrab;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+img {
+    display: flex;
+    border: 3px solid green
+}
+
+img DarkStar {
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+    border: 3px solid blueviolet;
+}
