@@ -1,15 +1,24 @@
 html {
-    margin: 2px;
-    width: 600%;
+    margin: 12px;
+    width: 500px auto;
     padding: 2px;
+    background: rosybrown;
 }
 
 header {
     color: aquamarine;
     display: flex;
-    border: 3px solid olivedrab;
-    flex-direction: column;
-    justify-content: space-between;
+    border: 1px dashed whitesmoke;
+    align-content: center;
+    justify-content: center;
+}
+
+nav {
+    color: turquoise;
+    display:flex;
+    border: 1px dashed whitesmoke;
+    align-content: center;
+    justify-content: space-evenly;
 }
 
 img {
@@ -17,7 +26,7 @@ img {
     border: 3px solid green
 }
 
-img DarkStar {
+img .DarkStar {
     display: flex;
     margin: 2px;
     padding: 2px;

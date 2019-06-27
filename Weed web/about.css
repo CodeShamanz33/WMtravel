@@ -1,0 +1,15 @@
+html {
+    display: flex;
+    margin: 12px auto;
+    width: 600px auto;
+    color: darkgoldenrod;
+    border: 1px dashed whitesmoke;
+    background: navajowhite; 
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+h2 {
+    color: tomato;
+    border: 2px solid red;
+}
